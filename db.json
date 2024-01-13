@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "pname": "Tootpaste",
+      "pprice": "80",
+      "pqty": "4",
+      "id": 1
+    },
+    {
+      "pname": "Cloth",
+      "pprice": "800",
+      "pqty": "laxman sir",
+      "id": 3
+    },
+    {
+      "pprice": "120",
+      "pname": "Bottle",
+      "pqty": "2",
+      "id": 4
+    },
+    {
+      "pprice": "1000",
+      "pname": "Bag",
+      "pqty": "2",
+      "id": 5
+    },
+    {
+      "pprice": "1000",
+      "pname": "Dress",
+      "pqty": "2",
+      "id": 6
+    },
+    {
+      "pprice": "600",
+      "pname": "Table",
+      "pqty": "1",
+      "id": 7
+    },
+    {
+      "pprice": "1050",
+      "pname": "Jingilala Tshirt",
+      "pqty": "1",
+      "id": 8
+    }
+  ]
+}
